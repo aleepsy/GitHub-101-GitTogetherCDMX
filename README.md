@@ -44,7 +44,7 @@ Crear ramas te permite solucionar errores, desarrollar nuevas características o
 
 ### Commits
 
-Los commits con el conjunto de cambios dentro de los archnivos del proyecto.
+Los commits con el conjunto de cambios dentro de los archivos del proyecto.
 
 ### Pull Requests
 
@@ -78,7 +78,7 @@ GitHub Projects es una herramienta integrada en la plataforma GitHub que te perm
 
 [![Iniciar Curso](https://user-images.githubusercontent.com/1221423/218596841-0645fe1a-4aaf-4f51-9ab3-8aa2d3fdd487.svg)](https://github.com/aleepsy/GitHub-101---GitTogether-CDMX/fork)
 
-1. Haz clic en el boton de arriba para hacer **Fork** de este repositorio. En la nueva página coloca el nombre que gustes al repositorio.
+1. Haz clic en el boton de arriba para hacer **Fork** de este repositorio. En la nueva página coloca el nombre que más te guste.
 2. Espera alrededor de 20 segundos para ver tu nuevo repositorio.
 3. Cuando hayas creado el fork, puedes editarlo de la siguiente manera:
    - a) **Clonar** el repositorio:
@@ -91,13 +91,47 @@ GitHub Projects es una herramienta integrada en la plataforma GitHub que te perm
 ¡Sencillo! ¿Verdad?
 </details>
 
+
+<!-- 
+  <<< Actividad 0 >>> 
+-->
+<details id=2>
+<summary><h2>Actividad 0</h2></summary>
+
+> [!NOTE]
+> De preferencia, utiliza dos ventanas del navegador para seguir las instrucciones y poder trabajar en el repositorio que creaste.
+
+:octocat: Ahora que tienes una copia del repositorio original, vamos a comenzar con el manejo de archivos. 
+
+Practiquemos lo siguiente:
+
+1. Dirígete a la carpeta [Miembros](./Actividades/Miembros) dentro de la carpeta **Actividades**.
+2. Presiona la tecla `.` para abrir tu editor en línea.
+3. Dentro de la carpeta vas a crear un archivo de Markdown que lleve tu nombre y la extensión **.md**, por ejemplo:
+
+![alt text](image-8.png)
+
+4. Dentro de este nuevo archivo, agregarás tu nombre y apellido y tu handle de github (o username). Además una breve descripción de ti, sigue el [formato de ejemplo](./Actividades/Miembros/alejandra.md).
+
+5. Recuerda trabajar sobre el archivo con tu nombre y no sobreescribir el de ejemplo.
+
+6. Una vez agregada tu bio, te vas a dirigir al [Octodex](https://octodex.github.com/) y elegirás al octocat que más te guste, esta imagen la agregaras justo debajo del texto. Puedes simplemente copiar y pegar la imagen en tu archivo **.md** o bajarla en tu computadora, arrastrar y soltar en el editor.
+
+### ¡Sencillo!
+
+Ahora sabes como crear y editar archivos.
+
+
+</details>
+
+
 <!-- 
   <<< Actividad 1 >>> 
 -->
-<details id=2>
+<details id=3>
 <summary><h2>Actividad 1</h2></summary>
 
-:octocat: Ahora que tienes una copia del proyecto original, practiquemos lo siguiente:
+:octocat: A continuación, veremos como colaborar en este repositorio:
 
 1. Dirígete al archivo [Tips.md](./Actividades/Tips.md) dentro de la carpeta **Actividades**.
 2. Recuerda utilizar **github.dev** para abrir tu editor en línea.
@@ -134,7 +168,7 @@ Creaste tu primera contribución a un repositorio en GitHub.
 <!-- 
   <<< Actividad 2 >>> 
 -->
-<details id=3>
+<details id=4>
 <summary><h2>Actividad 2</h2></summary>
 
 </details>
