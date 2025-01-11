@@ -24,7 +24,7 @@ Conoce más [aquí](https://docs.github.com/es/get-started/start-your-journey/ab
 ![alt text](image.png)
 
 
-<details id=2>
+<details id=0>
 <summary><h2>Conceptos básicos</h2></summary>
 
 Existe una serie de conceptos que utilizaras a partir de ahora que trabajes tus proyectos en estas plataformas, por ejemplo:
@@ -67,7 +67,7 @@ GitHub Projects es una herramienta integrada en la plataforma GitHub que te perm
   <<< Author notes: Inicio >>> 
 -->
 
-<details id=2>
+<details id=1>
 <summary><h2>¡Practiquemos!</h2></summary>
 
 > [!TIP]
