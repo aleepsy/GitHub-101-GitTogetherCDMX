@@ -23,7 +23,9 @@ Conoce más [aquí](https://docs.github.com/es/get-started/start-your-journey/ab
 ### Flujo básico de Git y GitHub
 ![alt text](image.png)
 
-
+<!-- 
+  <<< Conceptos básicos >>> 
+-->
 <details id=0>
 <summary><h2>Conceptos básicos</h2></summary>
 
@@ -63,10 +65,11 @@ GitHub Projects es una herramienta integrada en la plataforma GitHub que te perm
 > [!TIP]
 > Te compartimos un [▶️video](https://youtu.be/r8jQ9hVA2qs?si=IRzStEVNR_UrMVpZ) para entender mejor estos conceptos.
 
-<!-- 
-  <<< Author notes: Inicio >>> 
--->
+</details>
 
+<!-- 
+  <<< Práctica >>> 
+-->
 <details id=1>
 <summary><h2>¡Practiquemos!</h2></summary>
 
@@ -85,5 +88,6 @@ GitHub Projects es una herramienta integrada en la plataforma GitHub que te perm
      1. En la raíz de tu repositorio, presiona la tecla:  `.`.
 
 ![alt text](image-1.png)
-¡Sencillo! ¿Verdad? 
+¡Sencillo! ¿Verdad?
 
+</details>
