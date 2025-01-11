@@ -31,34 +31,34 @@ Conoce más [aquí](https://docs.github.com/es/get-started/start-your-journey/ab
 
 Existe una serie de conceptos que utilizaras a partir de ahora que trabajes tus proyectos en estas plataformas, por ejemplo:
 
-## Repositorios
+### Repositorios
 
 Un repositorio o "repo" es un proyecto que contiene múltiples archivos con los que administrarás el mismo, por ejemplo, aquellos basados en código, carpetas, imágenes, etc.
 
-## Ramas
+### Ramas
 
 Definamos las ramas como une versión creada en paralelo  y de forma aislada de tu proyecto base. Cuando se crea una rama, se copian todos los archivos y el historial de cambios del repositorio principal, y a partir de ahí se pueden realizar modificaciones sin afectar a la rama principal (también conocida como rama `master` o `main`).
 
 Crear ramas te permite solucionar errores, desarrollar nuevas características o hacer pruebas en tu proyecto y que cada colaborador pueda trabajar en sus propias contribuciones.
 
 
-## Commits
+### Commits
 
 Los commits con el conjunto de cambios dentro de los archnivos del proyecto.
 
-## Pull Requests
+### Pull Requests
 
 Las Pull Request (PR) son peticiones para integrar nuestras propuestas o cambios de código a un proyecto.
 Esto permite que aquelllos usuarios que no sean los propietarios, contribuyan al mismo y mediante las PR, el propietario decida integrar esas contribuciones, solicitar modificaciones e incluso rechazarlas. 
 
-## Issues
+### Issues
 Dentro de la administración de un proyecto, el sistema de issues o incidencias en GitHub es una forma de realizar un seguimiento y administrar el trabajo necesario para mejorarlos. Cada issue puede significar una tarea, un informe de errores o una solicitud de función y se puede asignar a los miembros del equipo, etiquetar con etiquetas y vincular a hitos.
 
-## Merge
+### Merge
 
 La fusión, o merge, se refiere al proceso de combinar los cambios de una rama a otra, generalmente a la principal. GitHub utiliza un algoritmo de fusión llamado "merge commit" para combinar las diferencias entre las dos ramas. Este "merge commit" registra el historial de cambios y permite mantener un registro de los cambios realizados en cada rama.
 
-## Projects
+### Projects
 
 GitHub Projects es una herramienta integrada en la plataforma GitHub que te permite crear tableros de proyectos para organizar y dar seguimiento a tu trabajo. Es una gran funcionalidad que te ayudará en la gestión de tus proyectos y colaborar con tus equipos de trabajo.
 
@@ -89,5 +89,19 @@ GitHub Projects es una herramienta integrada en la plataforma GitHub que te perm
 
 ![alt text](image-1.png)
 ¡Sencillo! ¿Verdad?
+</details>
+
+<!-- 
+  <<< Actividad 1 >>> 
+-->
+<details id=2>
+<summary><h2>Actividad 1</h2></summary>
+
+Ahora que tienes una copia del proyecto original, practiquemos lo siguiente:
+
+1. Dirígete al archivo [Tips.md](./Actividades/Tips.md) dentro de la carpeta **Actividades**.
+2. En el archivo de [Tips.md](./Actividades/Tips.md), copia el tip de ejemplo y pegalo justo debajo. Vas a agregar un Tip que les darías a las demas personas para mejorar en programación.
+3. Crea un Pull Request **(PR)** y coloca en el titulo `He agregado mi tip - Tu Nombre`
+4. Manda tu **PR**.
 
 </details>
