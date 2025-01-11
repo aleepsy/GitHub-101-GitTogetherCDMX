@@ -97,11 +97,51 @@ GitHub Projects es una herramienta integrada en la plataforma GitHub que te perm
 <details id=2>
 <summary><h2>Actividad 1</h2></summary>
 
-Ahora que tienes una copia del proyecto original, practiquemos lo siguiente:
+:octocat: Ahora que tienes una copia del proyecto original, practiquemos lo siguiente:
 
 1. Dirígete al archivo [Tips.md](./Actividades/Tips.md) dentro de la carpeta **Actividades**.
-2. En el archivo de [Tips.md](./Actividades/Tips.md), copia el tip de ejemplo y pegalo justo debajo. Vas a agregar un Tip que les darías a las demas personas para mejorar en programación.
-3. Crea un Pull Request **(PR)** y coloca en el titulo `He agregado mi tip - Tu Nombre`
-4. Manda tu **PR**.
+2. Recuerda utilizar **github.dev** para abrir tu editor en línea.
+3. En el archivo de [Tips.md](./Actividades/Tips.md), copia el tip de ejemplo y pegalo justo debajo. Vas a agregar un Tip que les darías a las demas personas para mejorar en programación.
+
+![alt text](image-2.png)
+
+4. Haz clic en el ícono de control de código fuente dentro de tu editor.
+
+![alt text](image-3.png)
+
+5. Escribe un nombre y envía los cambios.
+
+![alt text](image-4.png)
+
+6. Dirígete a tu repositorio y verás la siguiente opción:
+
+![alt text](image-5.png)
+
+6. Abre un Pull Request **(PR)** y coloca en el titulo `He agregado mi tip - Tu Nombre`y opcionalmente una descripción.
+
+7. Asegúrate de no tener conflictos.
+
+![alt text](image-7.png)
+
+8. Crea tu **PR**.
+
+### ¡Felicidades!
+
+Creaste tu primera contribución a un repositorio en GitHub.
 
 </details>
+
+<!-- 
+  <<< Actividad 2 >>> 
+-->
+<details id=3>
+<summary><h2>Actividad 2</h2></summary>
+
+</details>
+
+
+
+## Contribuidores
+[Alejandra Pérez](https://github.com/aleepsy)
+
+[Manuel Ortiz](https://github.com/manuosmx)
