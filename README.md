@@ -68,7 +68,6 @@ GitHub Projects es una herramienta integrada en la plataforma GitHub que te perm
 ### Flujo básico de Git y GitHub
 ![alt text](./img/image.png)
 
-
 <!-- 
   <<< Práctica >>> 
 -->
@@ -124,9 +123,7 @@ Practiquemos lo siguiente:
 
 Ahora sabes como crear y editar archivos.
 
-
 </details>
-
 
 <!-- 
   <<< Actividad 1 >>> 
@@ -175,8 +172,6 @@ Creaste tu primera contribución a un repositorio en GitHub.
 <summary><h2>Actividad 2</h2></summary>
 
 </details>
-
-
 
 ## Contribuidores
 [Alejandra Pérez](https://github.com/aleepsy)
