@@ -65,6 +65,24 @@ GitHub Projects es una herramienta integrada en la plataforma GitHub que te perm
 > [!TIP]
 > Te compartimos un [▶️video](https://youtu.be/r8jQ9hVA2qs?si=IRzStEVNR_UrMVpZ) para entender mejor estos conceptos.
 
+
+<!-- 
+  <<< Comandos Git >>> 
+-->
+<details id=1>
+<summary><h2>Comandos básicos de Git</h2></summary>
+
+**Configurar un usuario – git config**
+Puedes configurar el nombre del autor y la dirección de correo electrónico para registrar de quien provienen los cambios.
+
+`git config --global user.name "Nombre Usuario"`
+`git config --global user.email nombreusuario@gmail.com`
+
+
+
+</details>
+
+
 ### Flujo básico de Git y GitHub
 ![alt text](./img/image.png)
 
@@ -75,7 +93,7 @@ GitHub Projects es una herramienta integrada en la plataforma GitHub que te perm
 > [!TIP]
 > Para abrir enlaces te recomendamos presionar la tecla **[CTRL]** y, sin soltar, dar clic en el enlace. Esto abrirá los enlaces en una nueva pestaña en tu navegador.
 
-<details id=1>
+<details id=2>
 <summary><h2>¡Practiquemos!</h2></summary>
 
 [![Iniciar Curso](https://user-images.githubusercontent.com/1221423/218596841-0645fe1a-4aaf-4f51-9ab3-8aa2d3fdd487.svg)](https://github.com/aleepsy/GitHub-101---GitTogether-CDMX/fork)
@@ -100,7 +118,7 @@ GitHub Projects es una herramienta integrada en la plataforma GitHub que te perm
 > [!NOTE]
 > De preferencia, utiliza dos ventanas del navegador para seguir las instrucciones y poder trabajar en el repositorio que creaste.
 
-<details id=2>
+<details id=3>
 <summary><h2>Actividad 0</h2></summary>
 
 :octocat: Ahora que tienes una copia del repositorio original, vamos a comenzar con el manejo de archivos. 
@@ -128,7 +146,7 @@ Ahora sabes como crear y editar archivos.
 <!-- 
   <<< Actividad 1 >>> 
 -->
-<details id=3>
+<details id=4>
 <summary><h2>Actividad 1</h2></summary>
 
 :octocat: A continuación, veremos como colaborar en este repositorio:
@@ -168,7 +186,7 @@ Creaste tu primera contribución a un repositorio en GitHub.
 <!-- 
   <<< Actividad 2 >>> 
 -->
-<details id=4>
+<details id=5>
 <summary><h2>Actividad 2</h2></summary>
 
 </details>
