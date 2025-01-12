@@ -11,7 +11,7 @@ GitHub es la plataforma líder que te permite mejorar tu productividad, facilita
 
 ¡Gracias por acompañarnos!
 
-**-Equipo GitHub GitTogether CDMX**
+***- Equipo GitHub GitTogether CDMX***
 
 ---
 
@@ -20,12 +20,10 @@ GitHub es una plataforma basada en la nube donde puedes almacenar, compartir y c
 
 Conoce más [aquí](https://docs.github.com/es/get-started/start-your-journey/about-github-and-git#c%C3%B3mo-funcionan-git-y-github-juntos) y mira el siguiente [▶️video](https://youtu.be/pBy1zgt0XPc?si=3xC7IMYKmClIKUcB).
 
-### Flujo básico de Git y GitHub
-![alt text](./Imágenes/image.png)
-
 <!-- 
   <<< Conceptos básicos >>> 
 -->
+
 <details id=0>
 <summary><h2>Conceptos básicos</h2></summary>
 
@@ -62,19 +60,24 @@ La fusión, o merge, se refiere al proceso de combinar los cambios de una rama a
 
 GitHub Projects es una herramienta integrada en la plataforma GitHub que te permite crear tableros de proyectos para organizar y dar seguimiento a tu trabajo. Es una gran funcionalidad que te ayudará en la gestión de tus proyectos y colaborar con tus equipos de trabajo.
 
+</details>
+
 > [!TIP]
 > Te compartimos un [▶️video](https://youtu.be/r8jQ9hVA2qs?si=IRzStEVNR_UrMVpZ) para entender mejor estos conceptos.
 
-</details>
+### Flujo básico de Git y GitHub
+![alt text](./Imágenes/image.png)
+
 
 <!-- 
   <<< Práctica >>> 
 -->
-<details id=1>
-<summary><h2>¡Practiquemos!</h2></summary>
 
 > [!TIP]
 > Para abrir enlaces te recomendamos presionar la tecla **[CTRL]** y, sin soltar, dar clic en el enlace. Esto abrirá los enlaces en una nueva pestaña en tu navegador.
+
+<details id=1>
+<summary><h2>¡Practiquemos!</h2></summary>
 
 [![Iniciar Curso](https://user-images.githubusercontent.com/1221423/218596841-0645fe1a-4aaf-4f51-9ab3-8aa2d3fdd487.svg)](https://github.com/aleepsy/GitHub-101---GitTogether-CDMX/fork)
 
@@ -91,15 +94,15 @@ GitHub Projects es una herramienta integrada en la plataforma GitHub que te perm
 ¡Sencillo! ¿Verdad?
 </details>
 
-
 <!-- 
   <<< Actividad 0 >>> 
 -->
-<details id=2>
-<summary><h2>Actividad 0</h2></summary>
 
 > [!NOTE]
 > De preferencia, utiliza dos ventanas del navegador para seguir las instrucciones y poder trabajar en el repositorio que creaste.
+
+<details id=2>
+<summary><h2>Actividad 0</h2></summary>
 
 :octocat: Ahora que tienes una copia del repositorio original, vamos a comenzar con el manejo de archivos. 
 
