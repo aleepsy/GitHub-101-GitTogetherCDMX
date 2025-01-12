@@ -77,6 +77,11 @@ GitHub Projects es una herramienta integrada en la plataforma GitHub que te perm
 <details id=1>
 <summary><h2>¡Practiquemos!</h2></summary>
 
+<div style="border-left: 4px solid #4CAF50; background-color: #f9f9f9; padding: 15px; margin: 10px 0; font-family: Arial, sans-serif;">
+  <h3 style="margin: 0; font-size: 1.1em; color: #4CAF50;">TIP</h3>
+  <p style="margin: 5px 0;">Te compartimos un <a style="  color: #4CAF50; text-decoration: none;" href="https://youtu.be/r8jQ9hVA2qs?si=IRzStEVNR_UrMVpZ" target="_blank">▶️ video</a> para entender mejor estos conceptos.</p>
+</div>
+
 [![Iniciar Curso](https://user-images.githubusercontent.com/1221423/218596841-0645fe1a-4aaf-4f51-9ab3-8aa2d3fdd487.svg)](https://github.com/aleepsy/GitHub-101---GitTogether-CDMX/fork)
 
 1. Haz clic en el boton de arriba para hacer **Fork** de este repositorio. En la nueva página coloca el nombre que más te guste.
