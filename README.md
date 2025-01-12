@@ -64,21 +64,18 @@ GitHub Projects es una herramienta integrada en la plataforma GitHub que te perm
 
 </details>
 
-
 > [!TIP]
 > Te compartimos un [▶️video](https://youtu.be/r8jQ9hVA2qs?si=IRzStEVNR_UrMVpZ) para entender mejor estos conceptos.
-
 
 <!-- 
   <<< Práctica >>> 
 -->
-<details id=1>
-<summary><h2>¡Practiquemos!</h2></summary>
-
 
 > [!TIP]
 > Para abrir enlaces te recomendamos presionar la tecla **[CTRL]** y, sin soltar, dar clic en el enlace. Esto abrirá los enlaces en una nueva pestaña en tu navegador.
 
+<details id=1>
+<summary><h2>¡Practiquemos!</h2></summary>
 
 [![Iniciar Curso](https://user-images.githubusercontent.com/1221423/218596841-0645fe1a-4aaf-4f51-9ab3-8aa2d3fdd487.svg)](https://github.com/aleepsy/GitHub-101---GitTogether-CDMX/fork)
 
@@ -99,11 +96,12 @@ GitHub Projects es una herramienta integrada en la plataforma GitHub que te perm
 <!-- 
   <<< Actividad 0 >>> 
 -->
-<details id=2>
-<summary><h2>Actividad 0</h2></summary>
 
 > [!NOTE]
 > De preferencia, utiliza dos ventanas del navegador para seguir las instrucciones y poder trabajar en el repositorio que creaste.
+
+<details id=2>
+<summary><h2>Actividad 0</h2></summary>
 
 :octocat: Ahora que tienes una copia del repositorio original, vamos a comenzar con el manejo de archivos. 
 
