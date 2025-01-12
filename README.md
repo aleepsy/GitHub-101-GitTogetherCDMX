@@ -65,6 +65,94 @@ GitHub Projects es una herramienta integrada en la plataforma GitHub que te perm
 > [!TIP]
 > Te compartimos un [▶️video](https://youtu.be/r8jQ9hVA2qs?si=IRzStEVNR_UrMVpZ) para entender mejor estos conceptos.
 
+
+<!-- 
+  <<< Comandos Git >>> 
+-->
+<details id=1>
+<summary><h2>Comandos básicos de Git</h2></summary>
+
+**Configurar un usuario**
+
+Puedes configurar el nombre del autor y la dirección de correo electrónico para registrar de quien provienen los cambios.
+
+`git config --global user.name "Nombre Usuario"`
+
+`git config --global user.email nombreusuario@gmail.com`
+
+**Crear un repositorio local**
+
+Cuando quieres crear un repositorio local primero debes inicializarlo con el siguiente comando:
+
+`git init`
+
+**Clonar un repositorio**
+
+Para crear o clonar una copia de otro repositorio local utilizamos:
+
+`git clone /ruta/del/repositorio`
+
+**Agregar archivos**
+
+Si queremos agregar archivos al stage o index (para luego hacer commit) lo hacemos con el comando add:
+
+`git add <nombre_archivo>`
+
+`git add .`
+
+**Crear un commit**
+
+Confirmamos nuestros cambios en head (pero aún no en el repositorio remoto):
+
+`git commit -m "Mensaje del commit"`
+
+**Subir commit a un repositorio remoto**
+
+Para enviar los cambios a la rama **main** de un repositorio remoto:
+
+`git push origin main`
+
+**Estado de los archivos**
+
+Para listar y enumerar los archivos que han sufrido cambios y los que aun no han sido agregados o confirmados mediante commit:
+
+`git status`
+
+**Manipulación de ramas**
+
+Para crear y modificar una nueva rama:
+
+`git checkout -b <nombre_nueva_rama>`
+
+Cambiar de una rama a otra:
+
+`git checkout <nombre_rama>`
+
+Enumerar todas las ramas en tu repositorio y también saber en que rama o _branch_ nos encontramos:
+
+`git branch`
+
+Eliminar una rama personalizada:
+
+`git branch -d <nombre_rama>`
+
+Subir una rama a un repositorio remoto, para que otros puedan usarla:
+
+`git push origin <nombre_rama>`
+
+Sube todas las ramas a tu repositorio remoto:
+
+`git push --all origin`
+
+Eliminar una rama en tu repositorio remoto:
+
+`git push origin -d <nombre_rama>`
+
+_En construcción..._
+
+</details>
+
+
 ### Flujo básico de Git y GitHub
 ![alt text](./img/image.png)
 
@@ -75,7 +163,7 @@ GitHub Projects es una herramienta integrada en la plataforma GitHub que te perm
 > [!TIP]
 > Para abrir enlaces te recomendamos presionar la tecla **[CTRL]** y, sin soltar, dar clic en el enlace. Esto abrirá los enlaces en una nueva pestaña en tu navegador.
 
-<details id=1>
+<details id=2>
 <summary><h2>¡Practiquemos!</h2></summary>
 
 [![Iniciar Curso](https://user-images.githubusercontent.com/1221423/218596841-0645fe1a-4aaf-4f51-9ab3-8aa2d3fdd487.svg)](https://github.com/aleepsy/GitHub-101---GitTogether-CDMX/fork)
@@ -100,7 +188,7 @@ GitHub Projects es una herramienta integrada en la plataforma GitHub que te perm
 > [!NOTE]
 > De preferencia, utiliza dos ventanas del navegador para seguir las instrucciones y poder trabajar en el repositorio que creaste.
 
-<details id=2>
+<details id=3>
 <summary><h2>Actividad 0</h2></summary>
 
 :octocat: Ahora que tienes una copia del repositorio original, vamos a comenzar con el manejo de archivos. 
@@ -128,7 +216,7 @@ Ahora sabes como crear y editar archivos.
 <!-- 
   <<< Actividad 1 >>> 
 -->
-<details id=3>
+<details id=4>
 <summary><h2>Actividad 1</h2></summary>
 
 :octocat: A continuación, veremos como colaborar en este repositorio:
@@ -168,7 +256,7 @@ Creaste tu primera contribución a un repositorio en GitHub.
 <!-- 
   <<< Actividad 2 >>> 
 -->
-<details id=4>
+<details id=5>
 <summary><h2>Actividad 2</h2></summary>
 
 </details>
