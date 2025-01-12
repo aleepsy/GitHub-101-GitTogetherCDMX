@@ -72,13 +72,83 @@ GitHub Projects es una herramienta integrada en la plataforma GitHub que te perm
 <details id=1>
 <summary><h2>Comandos básicos de Git</h2></summary>
 
-**Configurar un usuario – git config**
+**Configurar un usuario**
+
 Puedes configurar el nombre del autor y la dirección de correo electrónico para registrar de quien provienen los cambios.
 
 `git config --global user.name "Nombre Usuario"`
+
 `git config --global user.email nombreusuario@gmail.com`
 
+**Crear un repositorio local**
 
+Cuando quieres crear un repositorio local primero debes inicializarlo con el siguiente comando:
+
+`git init`
+
+**Clonar un repositorio**
+
+Para crear o clonar una copia de otro repositorio local utilizamos:
+
+`git clone /ruta/del/repositorio`
+
+**Agregar archivos**
+
+Si queremos agregar archivos al stage o index (para luego hacer commit) lo hacemos con el comando add:
+
+`git add <nombre_archivo`
+
+`git add .`
+
+**Crear un commit**
+
+Confirmamos nuestros cambios en head (pero aún no en el repositorio remoto):
+
+`git commit -m "Mensaje del commit"`
+
+**Subir commit a un repositorio remoto**
+
+Para enviar los cambios a la rama **main** de un repositorio remoto:
+
+`git push origin main`
+
+**Estado de los archivos**
+
+Para listar y enumerar los archivos que han sufrido cambios y los que aun no han sido agregados o confirmados mediante commit:
+
+`git status`
+
+**Manipulación de ramas**
+
+Para crear y modificar una nueva rama:
+
+`git checkout -b <nombre_nueva_rama>`
+
+Cambiar de una rama a otra:
+
+`git checkout <nombre_rama>`
+
+Enumerar todas las ramas en tu repositorio y también saber en que rama o _branch_ nos encontramos:
+
+`git branch`
+
+Eliminar una rama personalizada:
+
+`git branch -d <nombre_rama>`
+
+Subir una rama a un repositorio remoto, para que otros puedan usarla:
+
+`git push origin <nombre_rama>`
+
+Sube todas las ramas a tu repositorio remoto:
+
+`git push --all origin`
+
+Eliminar una rama en tu repositorio remoto:
+
+`git push origin: <nombre_rama>`
+
+_En construcción..._
 
 </details>
 
