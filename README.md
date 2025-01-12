@@ -66,8 +66,7 @@ GitHub Projects es una herramienta integrada en la plataforma GitHub que te perm
 > Te compartimos un [▶️video](https://youtu.be/r8jQ9hVA2qs?si=IRzStEVNR_UrMVpZ) para entender mejor estos conceptos.
 
 ### Flujo básico de Git y GitHub
-![alt text](./Imágenes/image.png)
-
+![alt text](./img/image.png)
 
 <!-- 
   <<< Práctica >>> 
@@ -90,7 +89,7 @@ GitHub Projects es una herramienta integrada en la plataforma GitHub que te perm
    - b) Usar **github.dev**:
      1. En la raíz de tu repositorio, presiona la tecla:  `.`.
 
-![alt text](./Imágenes/image-1.png)
+![alt text](./img/image-1.png)
 ¡Sencillo! ¿Verdad?
 </details>
 
@@ -112,7 +111,7 @@ Practiquemos lo siguiente:
 2. Presiona la tecla `.` para abrir tu editor en línea.
 3. Dentro de la carpeta vas a crear un archivo de Markdown que lleve tu nombre y la extensión **.md**, por ejemplo:
 
-![alt text](./Imágenes/image-8.png)
+![alt text](./img/image-8.png)
 
 4. Dentro de este nuevo archivo, agregarás tu nombre y apellido y tu handle de github (o username). Además una breve descripción de ti, sigue el [formato de ejemplo](./Actividades/Miembros/alejandra.md).
 
@@ -124,9 +123,7 @@ Practiquemos lo siguiente:
 
 Ahora sabes como crear y editar archivos.
 
-
 </details>
-
 
 <!-- 
   <<< Actividad 1 >>> 
@@ -140,25 +137,25 @@ Ahora sabes como crear y editar archivos.
 2. Recuerda utilizar **github.dev** para abrir tu editor en línea.
 3. En el archivo de [Tips.md](./Actividades/Tips.md), copia el tip de ejemplo y pegalo justo debajo. Vas a agregar un Tip que les darías a las demas personas para mejorar en programación.
 
-![alt text](./Imágenes/image-2.png)
+![alt text](./img/image-2.png)
 
 4. Haz clic en el ícono de control de código fuente dentro de tu editor.
 
-![alt text](./Imágenes/image-3.png)
+![alt text](./img/image-3.png)
 
 5. Escribe un nombre y envía los cambios.
 
-![alt text](./Imágenes/image-4.png)
+![alt text](./img/image-4.png)
 
 6. Dirígete a tu repositorio y verás la siguiente opción:
 
-![alt text](./Imágenes/image-5.png)
+![alt text](./img/image-5.png)
 
 6. Abre un Pull Request **(PR)** y coloca en el titulo `He agregado mi tip - Tu Nombre`y opcionalmente una descripción.
 
 7. Asegúrate de no tener conflictos.
 
-![alt text](./Imágenes/image-7.png)
+![alt text](./img/image-7.png)
 
 8. Crea tu **PR**.
 
@@ -175,8 +172,6 @@ Creaste tu primera contribución a un repositorio en GitHub.
 <summary><h2>Actividad 2</h2></summary>
 
 </details>
-
-
 
 ## Contribuidores
 [Alejandra Pérez](https://github.com/aleepsy)
