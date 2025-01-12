@@ -20,15 +20,9 @@ GitHub es una plataforma basada en la nube donde puedes almacenar, compartir y c
 
 Conoce más [aquí](https://docs.github.com/es/get-started/start-your-journey/about-github-and-git#c%C3%B3mo-funcionan-git-y-github-juntos) y mira el siguiente [▶️video](https://youtu.be/pBy1zgt0XPc?si=3xC7IMYKmClIKUcB).
 
-### Flujo básico de Git y GitHub
-![alt text](./Imágenes/image.png)
-
 <!-- 
   <<< Conceptos básicos >>> 
 -->
-
-> [!TIP]
-> Te compartimos un [▶️video](https://youtu.be/r8jQ9hVA2qs?si=IRzStEVNR_UrMVpZ) para entender mejor estos conceptos.
 
 <details id=0>
 <summary><h2>Conceptos básicos</h2></summary>
@@ -68,6 +62,13 @@ GitHub Projects es una herramienta integrada en la plataforma GitHub que te perm
 
 </details>
 
+> [!TIP]
+> Te compartimos un [▶️video](https://youtu.be/r8jQ9hVA2qs?si=IRzStEVNR_UrMVpZ) para entender mejor estos conceptos.
+
+### Flujo básico de Git y GitHub
+![alt text](./Imágenes/image.png)
+
+
 <!-- 
   <<< Práctica >>> 
 -->
@@ -92,7 +93,6 @@ GitHub Projects es una herramienta integrada en la plataforma GitHub que te perm
 ![alt text](./Imágenes/image-1.png)
 ¡Sencillo! ¿Verdad?
 </details>
-
 
 <!-- 
   <<< Actividad 0 >>> 
