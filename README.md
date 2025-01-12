@@ -11,7 +11,7 @@ GitHub es la plataforma líder que te permite mejorar tu productividad, facilita
 
 ¡Gracias por acompañarnos!
 
-**-Equipo GitHub GitTogether CDMX**
+***- Equipo GitHub GitTogether CDMX***
 
 ---
 
@@ -62,10 +62,12 @@ La fusión, o merge, se refiere al proceso de combinar los cambios de una rama a
 
 GitHub Projects es una herramienta integrada en la plataforma GitHub que te permite crear tableros de proyectos para organizar y dar seguimiento a tu trabajo. Es una gran funcionalidad que te ayudará en la gestión de tus proyectos y colaborar con tus equipos de trabajo.
 
+</details>
+
+
 > [!TIP]
 > Te compartimos un [▶️video](https://youtu.be/r8jQ9hVA2qs?si=IRzStEVNR_UrMVpZ) para entender mejor estos conceptos.
 
-</details>
 
 <!-- 
   <<< Práctica >>> 
