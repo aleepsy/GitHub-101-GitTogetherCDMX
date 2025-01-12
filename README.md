@@ -96,7 +96,7 @@ Para crear o clonar una copia de otro repositorio local utilizamos:
 
 Si queremos agregar archivos al stage o index (para luego hacer commit) lo hacemos con el comando add:
 
-`git add <nombre_archivo`
+`git add <nombre_archivo>`
 
 `git add .`
 
@@ -146,7 +146,7 @@ Sube todas las ramas a tu repositorio remoto:
 
 Eliminar una rama en tu repositorio remoto:
 
-`git push origin: <nombre_rama>`
+`git push origin <nombre_rama>`
 
 _En construcción..._
 
