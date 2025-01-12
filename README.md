@@ -146,7 +146,7 @@ Sube todas las ramas a tu repositorio remoto:
 
 Eliminar una rama en tu repositorio remoto:
 
-`git push origin <nombre_rama>`
+`git push origin -d <nombre_rama>`
 
 _En construcción..._
 
