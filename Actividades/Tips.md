@@ -16,5 +16,4 @@ Saul Rodriguez
 > Fomenta el aprendizaje continuo a traves de sesiones practicas, como talleres y hackatones, mientras desarrollas proyectos que aborden problemas del mundo real. Es bueno establecer buenas practicas de colaboracion promoviendo revisiones de codigo y documentando los procesos claramente...
 
 
-
 <!-- Sección de tips - FIN -->
