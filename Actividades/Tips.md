@@ -11,5 +11,9 @@ Alejandra Pérez
 <!-- Sección de tips -->
 
 
+Eduardo Castillo
+
+> [!TIP]
+> Estudia mucho por tu cuenta y rétate a ti mismo a hacer proyectos cada vez más difíciles! ¡También haz mucho networking para colaborar y aprender de los demás, anímate a ir a hackatones y las colaboraciones en git llegarán solas!.
 
 <!-- Sección de tips - FIN -->
